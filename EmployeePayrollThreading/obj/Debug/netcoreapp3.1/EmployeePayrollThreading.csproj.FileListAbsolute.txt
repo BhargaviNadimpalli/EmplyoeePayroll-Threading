@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\EmployeePayrollThreading\EmployeePayrollThreading\bin\Debug\netcoreapp3.1\EmployeePayrollThreading.exe
+C:\Users\HP\source\repos\EmployeePayrollThreading\EmployeePayrollThreading\bin\Debug\netcoreapp3.1\EmployeePayrollThreading.deps.json
+C:\Users\HP\source\repos\EmployeePayrollThreading\EmployeePayrollThreading\bin\Debug\netcoreapp3.1\EmployeePayrollThreading.runtimeconfig.json
+C:\Users\HP\source\repos\EmployeePayrollThreading\EmployeePayrollThreading\bin\Debug\netcoreapp3.1\EmployeePayrollThreading.runtimeconfig.dev.json
+C:\Users\HP\source\repos\EmployeePayrollThreading\EmployeePayrollThreading\bin\Debug\netcoreapp3.1\EmployeePayrollThreading.dll
+C:\Users\HP\source\repos\EmployeePayrollThreading\EmployeePayrollThreading\bin\Debug\netcoreapp3.1\EmployeePayrollThreading.pdb
+C:\Users\HP\source\repos\EmployeePayrollThreading\EmployeePayrollThreading\obj\Debug\netcoreapp3.1\EmployeePayrollThreading.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\EmployeePayrollThreading\EmployeePayrollThreading\obj\Debug\netcoreapp3.1\EmployeePayrollThreading.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\EmployeePayrollThreading\EmployeePayrollThreading\obj\Debug\netcoreapp3.1\EmployeePayrollThreading.AssemblyInfo.cs
+C:\Users\HP\source\repos\EmployeePayrollThreading\EmployeePayrollThreading\obj\Debug\netcoreapp3.1\EmployeePayrollThreading.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\EmployeePayrollThreading\EmployeePayrollThreading\obj\Debug\netcoreapp3.1\EmployeePayrollThreading.dll
+C:\Users\HP\source\repos\EmployeePayrollThreading\EmployeePayrollThreading\obj\Debug\netcoreapp3.1\EmployeePayrollThreading.pdb
+C:\Users\HP\source\repos\EmployeePayrollThreading\EmployeePayrollThreading\obj\Debug\netcoreapp3.1\EmployeePayrollThreading.genruntimeconfig.cache
